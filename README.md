@@ -1,4 +1,4 @@
-#Data-Mining Case Study
+# Data-Mining Case Study
 
 Here are set of jupyter notebooks that follows basic princples and steps for regular data mining activities 
 
